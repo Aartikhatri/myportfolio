@@ -7,6 +7,7 @@ import ecommerce from '../../assets/istockphoto-1249219777-612x612.jpg'
 import dream11 from '../../assets/Dream112.webp'
 import videoPlay from "../../assets/video-logo2.png"
 import portfolio from  "../../assets/Portfolio.png"
+import CodeEditor from "../../assets/CodeEditor.png"
 
  export const NavListLink = [
     {
@@ -107,14 +108,14 @@ export const projects = [
         id: 4,
         title : "My portfolio" ,
         src : portfolio,
-        link : "https://fastidious-donut-5c1934.netlify.app/" ,
+        link : "https://647cd8c13fcd7d57ad424e4d--iridescent-entremet-ac3fd0.netlify.app/" ,
         githubLink : ""
     },
     {
         id: 5,
-        title : "Ecommerce" ,
-        src : ecommerce,
-        link : "" ,
-        githubLink : ""
+        title : " Code Editor" ,
+        src : CodeEditor ,
+        link : "https://6484c4c2ff845b109197829b--nimble-blini-9e8d14.netlify.app/" ,
+        githubLink : "https://github.com/Aartikhatri/codeeditor"
     },
 ]
